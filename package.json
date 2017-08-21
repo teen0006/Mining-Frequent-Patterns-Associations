@@ -1,0 +1,23 @@
+{
+  "name": "mining-frequent-patterns-associations",
+  "version": "1.0.0",
+  "description": "data mining",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teen0006/Mining-Frequent-Patterns-Associations.git"
+  },
+  "keywords": [
+    "data",
+    "mining"
+  ],
+  "author": "Trung Minh <teen0006@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teen0006/Mining-Frequent-Patterns-Associations/issues"
+  },
+  "homepage": "https://github.com/teen0006/Mining-Frequent-Patterns-Associations#readme"
+}
